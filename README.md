@@ -1,7 +1,9 @@
 Hi, I'm Somadina Ejikeme! 👋
-Virtual Assistant | Administrative Support | Customer Support | CRM Management | Data Analyst 
+
 Welcome to my professional portfolio!
+
 I am a  reliable, organized with experience in administrative support, customer service, office coordination, records management, inventory control, and data entry. I have developed digital skills to support businesses remotely and help teams work more efficiently 
+
 💼 Skills & Services
 📧 Email Management
 📅 Calendar and Appointment Scheduling
@@ -13,6 +15,7 @@ I am a  reliable, organized with experience in administrative support, customer 
 🔎 Online Research and Data Entry
 Data Analysis
 Task and work flow  management 
+
 🛠️ Tools
 Microsoft Excel
 Microsoft Word
@@ -20,6 +23,7 @@ Google Docs
 Google Sheets
 Google Calendar
 CRM Tools
+
 📂 Portfolio Projects
 1. Email & Calendar Management
 Email organization, appointment scheduling, and calendar coordination.
@@ -29,7 +33,10 @@ Customer inquiries, complaint handling, and follow-up communication.
 Customer record organization, ticket tracking, and issue follow-up.
 4. Administrative & Project Support
 Task tracking, meeting minutes, document organization, and project coordination.
+
 🎯 Career Objective
 I aim to support businesses and professionals by providing reliable virtual assistance, organized administrative support, and excellent customer service.
+
 I welcome opportunities to learn, contribute, and grow through remote jobs, internships, and freelance projects.
+
 Thank you for visiting my portfolio!
